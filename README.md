@@ -1,17 +1,47 @@
 # How to setup and run the project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Step 1 - Dependencies
 
-You can clone the repository and run it locally on your computer.
+You will need:
 
-## Available Scripts
+* [Git](http://git-scm.com/downloads)
+* [yarn](https://yarnpkg.com/en/docs/install) (Optional. Not Required if you use NPM)
 
-In the project directory, you can run:
+Please install them if you don't have them already.
 
-### `npm start`
+## Step 2 - Clone the repository:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+From the command line, clone the repository.
+
+## Step 3 Install Each Lesson
+
+Each section is a separate app using [Create React App](https://github.com/facebookincubator/create-react-app). This repo has a script to install all of them at once.
+
+If you are using yarn run from the root of the repository:
+
+```sh
+yarn
+```
+
+If you are using npm, run from the root of the repository:
+
+```sh
+npm run install
+```
+
+## Step 4 - Run an app
+
+Once the dependencies are installed, you can run the app:
+
+```sh
+cd client
+yarn start
+# or
+npm start
+```
+
+Your browser should open up to a running app.
+
 
 # Summary
 
