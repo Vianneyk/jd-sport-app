@@ -15,7 +15,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 # Summary
 
-In this project, I have used a 3rd party API to create a component that displays products and where they can be purchased. As mentioned above, I used react to create this mini project. I used the Fetch API for accessing and manipulating the API because its global method provides an easy way to fetch resources asynchnously across the network.
+In this project, I have used a 3rd party API to create a component that displays products and where they can be purchased. As mentioned above, I used react to create this mini project. I used the Fetch API for accessing and manipulating the API because its global method provides an easy way to fetch resources asynchronously across the network.
 
 I have then rendered the listing style component with attributes asked in the task and I have used CSS to style the component. I have also used the "size" website as reference point to style the component.
 
