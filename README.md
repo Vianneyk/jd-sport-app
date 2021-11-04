@@ -13,7 +13,7 @@ Please install them if you don't have them already.
 
 From the command line, clone the repository.
 
-## Step 3 Install Each Lesson
+## Step 3 Install
 
 Each section is a separate app using [Create React App](https://github.com/facebookincubator/create-react-app). This repo has a script to install all of them at once.
 
